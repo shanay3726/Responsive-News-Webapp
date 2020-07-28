@@ -10,3 +10,6 @@ Some features include comment box, search box with bing autosuggest api to sugge
 - *Bing Autosuggest API*
 - *Comment Box API*
 - *Ajax, JSON, HTML, CSS*
+
+## Screenshots
+![Home Page](https://i.imgur.com/ZYpLQMp.png) ![Home Page1](https://i.imgur.com/2VNnYvD.png)
