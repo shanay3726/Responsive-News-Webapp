@@ -12,4 +12,8 @@ Some features include comment box, search box with bing autosuggest api to sugge
 - *Ajax, JSON, HTML, CSS*
 
 ## Screenshots
-![Home Page](https://i.imgur.com/ZYpLQMp.png) ![Home Page1](https://i.imgur.com/2VNnYvD.png)
+![Home Page](https://i.imgur.com/ZYpLQMp.png)
+![Detail Page](https://i.imgur.com/VhouTwh.png)
+![Favourites](https://i.imgur.com/hAozyzl.png)
+![Home Page1](https://i.imgur.com/2VNnYvD.png)
+![Search Tab](https://i.imgur.com/zMTRJbU.png)
